@@ -10,7 +10,7 @@
 
 ## ✨ What is it?
 
-Onchain Justice is a trust-minimized escrow + arbitration protocol. Two parties (e.g. client & freelancer, buyer & seller) agree on a deal, lock funds in a smart contract, and follow one of two paths:
+Justice Layer is a trust-minimized escrow + arbitration protocol. Two parties (e.g. client & freelancer, buyer & seller) agree on a deal, lock funds in a smart contract, and follow one of two paths:
 
 - **Happy path** → the payer releases funds to the payee.
 - **Disputed path** → either side raises a dispute, both submit evidence, and a GenLayer **AI consensus ruling** decides how to split the escrow — automatically and onchain.
