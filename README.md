@@ -182,9 +182,6 @@ bun run typecheck    # TypeScript check (if configured)
 
 ---
 
-## 📜 License
-
-MIT — do whatever, just don't blame us if your AI judge sides with the other guy.
 
 ---
 
